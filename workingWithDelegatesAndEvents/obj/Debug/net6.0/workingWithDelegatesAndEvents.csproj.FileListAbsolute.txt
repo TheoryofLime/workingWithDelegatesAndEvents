@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\bin\Debug\net6.0\workingWithDelegatesAndEvents.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\bin\Debug\net6.0\workingWithDelegatesAndEvents.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\bin\Debug\net6.0\workingWithDelegatesAndEvents.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\bin\Debug\net6.0\workingWithDelegatesAndEvents.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\bin\Debug\net6.0\workingWithDelegatesAndEvents.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\refint\workingWithDelegatesAndEvents.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\workingWithDelegatesAndEvents.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegatesAndEvents\workingWithDelegatesAndEvents\obj\Debug\net6.0\ref\workingWithDelegatesAndEvents.dll
